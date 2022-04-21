@@ -1,0 +1,20 @@
+# ----------- CONFIGURABLE START -----------
+title:            "jekyll-theme-comics"
+description:      "A minimalist yet exciting jekyll theme based on action comics."
+url:              https://r01nx.github.io/jekyll-theme-comics # Site url, without a slash at the end.
+signoff:          "r01nx" # Your name
+
+links:
+  - name:         /Posts  
+    url:          /
+    external:     false
+  - name:         /About-Me  
+    url:          /about
+    external:     false
+
+# ------------ CONFIGURABLE END ------------
+
+permalink:        /posts/:title
+defaults:
+  - values:
+      layout: "default"

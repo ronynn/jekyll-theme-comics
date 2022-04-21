@@ -1,0 +1,52 @@
+{% assign is_post = page.date %}
+<!doctype>
+<html lang="en">
+  <head>
+    <meta content='{{ page.title }} - {{ site.title }}' name='title' />
+    <meta content='{{ page.title }} - {{ site.title }}' name='og:title' />
+    <title>{{ page.title }} - {{ site.title }}</title>
+    {% include head.html %}
+  </head>
+  <body>
+  	
+    <div>
+      <nav class="nav" aria-label="Main">
+        {% for link in site.links %}
+          <a href="{% unless link.external %}{{ site.url }}{% endunless %}{{ link.url }}">
+             {{ link.name }}
+             <br/>
+           </a>
+        {% endfor %}
+      </nav>
+
+      <main>
+        {% if page.title %}
+          <div>
+            {% if page.date %}<div>{{ page.date | date_to_string }}</div>{% endif %}
+            <h1>
+              {% if is_post %}
+              {% endif %}
+              {{ page.title }}
+            </h1>
+          </div>
+        {% endif %}
+        <div>
+          {{ content }}
+        </div>
+        <br/>
+        <br/>
+        {% if is_post %}{% include signoff.html %}{% endif %}
+        <br/>
+      </main>
+      {% if is_post %}{% include pagination.html %}{% endif %}
+      <br/>
+      <br/>
+    </div>
+    <footer>
+    	<br/>
+    	<br/>
+      Built with Jekyll using <a href="http://github.com/r01nx/jekyll-theme-comics" class="link">jekyll-theme-comics</a>.
+      <br/>
+    </footer>
+  </body>
+</html>
