@@ -18,4 +18,4 @@ To use the comics theme on github pages:
 
     ```ruby
     gem "github-pages", group: :jekyll_plugins
- 
+    ```
