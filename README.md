@@ -111,7 +111,7 @@ Interested in contributing to Comics? I'd love your help. Comics is an open sour
 
 ## Author
 
-[rohan](https://github.com/ronynn)
+[ronynn](https://github.com/ronynn)
 
 
 ## License
