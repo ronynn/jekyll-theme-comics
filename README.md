@@ -1,6 +1,6 @@
 # Jekyll Theme Comics
 
-Comics is a Jekyll Theme inspired by action comics. You can [preview the theme to see what it looks like](https://r01nx.github.io/jekyll-theme-comics), or even [use it today](#usage).*
+Comics is a Jekyll Theme inspired by action comics. You can [preview the theme to see what it looks like](https://ronynn.github.io/jekyll-theme-comics), or even [use it today](#usage).*
 
 ## Contents
 - [Get Started](#get-started)
@@ -21,7 +21,7 @@ Comics is a Jekyll Theme inspired by action comics. You can [preview the theme t
 First, follow the steps in this [Quickstart Guide](https://jekyllrb.com/docs/) if you're starting with Jekyll from scratch. Skip this if you already have an existing jekyll project.
 
 
-1. [Fork the repository](https://github.com/r01nx/jekyll-theme-comics/fork)
+1. [Fork the repository](https://github.com/ronynn/jekyll-theme-comics/fork)
 
 2. Clone the repository: `git clone https://github.com/username/jekyll-theme-comics`
 
@@ -99,7 +99,7 @@ If you'd like to change the theme's HTML layout:
 
 ## Roadmap
 
-See the [open issues](https://github.com/r01nx/jekyll-theme-comics/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/ronynn/jekyll-theme-comics/issues) for a list of proposed features (and known issues).
 
 ## Project philosophy
 
@@ -111,7 +111,7 @@ Interested in contributing to Comics? I'd love your help. Comics is an open sour
 
 ## Author
 
-[rohan](https://github.com/r01nx)
+[rohan](https://github.com/ronynn)
 
 
 ## License

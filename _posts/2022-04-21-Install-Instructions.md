@@ -5,7 +5,7 @@ date: 2022-04-21 00:06:52
 
 ## Get started
 
-1. [Fork the repository](https://github.com/r01nx/jekyll-theme-comics/fork)
+1. [Fork the repository](https://github.com/ronynn/jekyll-theme-comics/fork)
 
 2. Clone the repository: `git clone https://github.com/username/jekyll-theme-comics`
 
@@ -29,5 +29,5 @@ date: 2022-04-21 00:06:52
 
 ## The end
 
-Like it? Why not put a [Star](https://github.com/r01nx/jekyll-theme-comics)!<br/>
-Problem? [Use GitHub Issues](https://github.com/r01nx/jekyll-theme-comics/issues).
+Like it? Why not put a [Star](https://github.com/ronynn/jekyll-theme-comics)!<br/>
+Problem? [Use GitHub Issues](https://github.com/ronynn/jekyll-theme-comics/issues).

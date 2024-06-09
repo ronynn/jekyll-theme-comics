@@ -19,7 +19,7 @@ A minimalist yet exciting theme based on action comics. Licensed under the [MIT 
 
 ## Roadmap
 
-See the [open issues](https://github.com/r01nx/jekyll-theme-comics/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/ronynn/jekyll-theme-comics/issues) for a list of proposed features (and known issues).
 
 ## Project philosophy
 
@@ -31,5 +31,5 @@ Interested in contributing to Comics? I'd love your help. Comics is an open sour
 
 ## Author
 
-[rohan](https://github.com/r01nx)
+[rohan](https://github.com/ronynn)
 
